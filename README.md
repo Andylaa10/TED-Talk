@@ -1,4 +1,14 @@
 # tedtalk
+This project is all about working with responsive ui
+Heres an example: 
+
+
+
+https://user-images.githubusercontent.com/91528350/230922193-ca312091-e59b-4280-a9bf-cbfd9fcce175.mp4
+
+
+
+
 
 A new Flutter project.
 
